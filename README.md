@@ -1,18 +1,37 @@
-## Getting Started
+# Jogo de Paridade
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Meu primeiro projeto em Java usando Programação Orientada a Objetos (POO).
 
-## Folder Structure
+## Sobre o projeto
 
-The workspace contains two folders by default, where:
+O jogador escolhe:
+- um número de 0 a 5
+- PAR ou IMPAR
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O computador gera um número aleatório e o jogo verifica quem venceu pela soma dos números.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Conceitos praticados
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Classes e objetos
+- Encapsulamento
+- Métodos
+- Construtores
+- Scanner
+- Math.random()
+- Lógica de paridade
+- Organização em múltiplas classes
 
-## Dependency Management
+## Estrutura do projeto
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- `Jogador.java`
+- `Computador.java`
+- `Jogo.java`
+- `App.java`
+
+## Tecnologias
+
+- Java
+
+## Objetivo
+
+Projeto criado para praticar lógica de programação e conceitos básicos de POO em Java.
